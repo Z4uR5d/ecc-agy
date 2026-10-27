@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "ecc.install.v1",
+  "installedAt": "2026-10-27T17:30:33.674Z",
+  "target": {
+    "id": "antigravity-project",
+    "target": "antigravity",
+    "kind": "project",
+    "root": "x:\\agents\\ecc\\draft\\.agents",
+    "installStatePath": "x:\\agents\\ecc\\draft\\.agents\\ecc-install-state.json"
+  },
+  "version": "2.2.3",
+  "operationsCount": 577
+}

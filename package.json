@@ -1,0 +1,28 @@
+{
+  "name": "ecc-agy",
+  "version": "1.0.0",
+  "description": "Antigravity-native distribution of ECC (Everything Claude Code / Universal Agent OS)",
+  "main": "scripts/adapt-antigravity.js",
+  "keywords": [
+    "antigravity",
+    "agy",
+    "gemini",
+    "agents",
+    "skills",
+    "rules",
+    "hooks",
+    "mcp"
+  ],
+  "license": "MIT",
+  "files": [
+    ".agents/",
+    ".gemini/",
+    "AGENTS.md",
+    "GEMINI.md",
+    "README.md",
+    "scripts/"
+  ],
+  "scripts": {
+    "sync": "node scripts/adapt-antigravity.js"
+  }
+}

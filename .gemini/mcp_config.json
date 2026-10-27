@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "ecc-memory-vault": {
+      "command": "node",
+      "args": [
+        "./.agents/scripts/memory-mcp.mjs"
+      ],
+      "env": {
+        "ECC_MEMORY_HARNESS": "antigravity",
+        "ECC_MEMORY_VAULT_PATH": "./.agents/memory"
+      },
+      "description": "Shared ECC Memory Vault for cross-session knowledge retention"
+    }
+  }
+}
