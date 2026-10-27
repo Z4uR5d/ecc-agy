@@ -2,6 +2,9 @@
   "name": "ecc-agy",
   "version": "1.0.0",
   "description": "Antigravity-native distribution of ECC (Everything Claude Code / Universal Agent OS)",
+  "bin": {
+    "ecc-agy": "./bin/install.js"
+  },
   "main": "scripts/adapt-antigravity.js",
   "keywords": [
     "antigravity",
@@ -20,6 +23,7 @@
     "AGENTS.md",
     "GEMINI.md",
     "README.md",
+    "bin/",
     "scripts/"
   ],
   "scripts": {
