@@ -40,6 +40,21 @@ ECC-AGY is packaged as a ready-to-deploy Antigravity workspace or plugin contain
 
 ---
 
+## Quick Start (Instant 1-Command Install)
+
+Run this single command inside any project directory to install the complete ECC-AGY operating system:
+
+```bash
+bunx github:Z4uR5d/ecc-agy
+```
+*(or with npx: `npx github:Z4uR5d/ecc-agy`)*
+
+This instantly sets up:
+1. `.agents/` with 68 specialized subagents, 387 skills, native lifecycle hooks, and SQLite memory vault.
+2. `AGENTS.md` and `GEMINI.md` with Tier 1 engineering invariants and Gemini 4 Argon / Flash model routing.
+
+---
+
 ## How to Deploy to a Project
 
 ### Option 1: Direct Copy to Project
